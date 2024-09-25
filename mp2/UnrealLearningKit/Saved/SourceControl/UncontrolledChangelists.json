@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HUD_Score.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Collectible.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Health.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Material_001.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/GameOverWidget.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Guller_Added/elf_house_lv2_sketchfab.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Guller_Added/proto_elf_rts.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.uasset",
+				"/Users/danielguller/Desktop/dguller2_cs415_fa24/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Collectable.uasset",
+				"/Users/danielguller/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HUD_Health.uasset",
+				"/Users/danielguller/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/danielguller/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_HealthPack.uasset",
+				"/Users/danielguller/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/heart_low_heart_low.uasset"
+			]
+		}
+	]
+}
