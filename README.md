@@ -1,4 +1,4 @@
-# dguller2_cs415_fa24
+# CS415 Unreal Engine Games
 
 How to play projects:
 1. Press "<> Code" button in repository
